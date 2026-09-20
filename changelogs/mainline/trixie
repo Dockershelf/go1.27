@@ -1,0 +1,5 @@
+golang-1.27 (1.27.0.0-1+trixie1) trixie; urgency=medium
+
+  * Initial Dockershelf source build of Go 1.27.
+
+ -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Mon, 15 Jun 2026 00:00:00 +0000
